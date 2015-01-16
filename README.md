@@ -22,9 +22,10 @@
 ##Lecture 22 (April 9) Working with texts (the bad and ugly)
 	pdf extraction
 	regex
+	text mining: LSA, LDA and friends (gensim)
 
 ##Lecture 24 (April 16) Working with networks
-	basic sna from csv etc.
+	introductory social network analysis
 	networkx, gephi
 
 ##Recitation 12 (April 18): dictionaries project
@@ -32,15 +33,10 @@
 	http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_1_of_2.pdf
 	http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf
 
-
 ##Lecture 24 (April 23): Working with places
-  census, mapping.
+	census, mapping
   
 ##Lecture 28 (April 30): Track finale
 
-Recitation 14 (May 1): Project 3 due -- advanced
-
-
-http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/
-http://aad.archives.gov/aad/
+##Recitation 14 (May 1): Project 3 due -- advanced
 
