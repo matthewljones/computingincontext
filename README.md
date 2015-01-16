@@ -17,6 +17,8 @@
 	basic text mining ideas
 	similarity motivations
 
+	Sources:[http://sunlightlabs.github.io/Capitol-Words/]
+
 ##Recitation 10 (April 3): text processing project
 
 ##Lecture 22 (April 9) Working with texts (the bad and ugly)
@@ -30,8 +32,8 @@
 
 ##Recitation 12 (April 18): dictionaries project
 	Using aad.archives.gov public sector strike information
-	http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_1_of_2.pdf
-	http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf
+	[http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_1_of_2.pdf]
+	[http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf]
 
 ##Lecture 24 (April 23): Working with places
 	census, mapping
