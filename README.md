@@ -55,8 +55,8 @@ READ BEFORE CLASS
 
 ##Recitation 12 (April 18): dictionaries project
 	Using aad.archives.gov public sector strike information
-	[http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_1_of_2.pdf]
-	[http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf]
+	(http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_1_of_2.pdf)
+	(http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf)
 
 ##Lecture 24 (April 23): Working with places
 	census, mapping, python and GIS
