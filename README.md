@@ -12,7 +12,7 @@
 	simple graphing
 
 READ BEFORE CLASS:
-+ Frederick Gibbs and Trevor Owens [The Hermeneutics of Data and Historical Writing](http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)
++ Frederick Gibbs and Trevor Owens, [The Hermeneutics of Data and Historical Writing](http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)
 
 + Steven Ruggles, “The Transformation of American Family Structure.” *The American Historical
 Review* 99 (1 1994): 103. (http://users.pop.umn.edu/~ruggles/Articles/AHR.pdf)
@@ -51,6 +51,7 @@ READ BEFORE CLASS:
 
 READ BEFORE CLASS
 + S. Graham, I. Milligan, & S. Weingart, [The Historian's Macroscope](http://www.themacroscope.org/),  Section on Networks.
++ 
 + Look at: “Connected China”, http://connectedchina.reuters.com/
 
 ###Recitation 12 (April 18): dictionaries project
@@ -58,11 +59,10 @@ READ BEFORE CLASS
 	(http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_1_of_2.pdf)
 	(http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf)
 
-##Lecture 24 (April 23): Working with places
+##Lecture 26 (April 23): Working with places
 	census, mapping, python and GIS
   
  + Read: Richard White, [“What is Spatial History"](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29) 
-  
   
 ##Lecture 28 (April 30): Track finale
 
