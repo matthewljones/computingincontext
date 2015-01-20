@@ -1,6 +1,7 @@
 #Computing in Context
 ##History Track
 ###Matthew L. Jones
+##
 
 ##Lecture 18 (March 26): Working with numbers
 
@@ -11,21 +12,25 @@
 	simple graphing
 
 READ BEFORE CLASS:
-Frederick Gibbs and Trevor Owens [The Hermeneutics of Data and Historical Writing](http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)
-Steven Ruggles, “The Transformation of American Family Structure.” The American Historical
-Review 99 (1 1994): 103. (http://users.pop.umn.edu/~ruggles/Articles/AHR.pdf)
++ Frederick Gibbs and Trevor Owens [The Hermeneutics of Data and Historical Writing](http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)
 
++ Steven Ruggles, “The Transformation of American Family Structure.” *The American Historical
+Review* 99 (1 1994): 103. (http://users.pop.umn.edu/~ruggles/Articles/AHR.pdf)
 
-data source: https://www.ipums.org/
-
+Check out this data source: https://www.ipums.org/
 
 ##Lecture 20 (April 2): Working with text (the good)
 
 	plurality of sources
-	basic text mining ideas
-	similarity motivations
+	basic text mining ideas: stemming, stopwords, word frequencies
+	measuring similarity
 
-	Sources:[Capitol Words](http://sunlightlabs.github.io/Capitol-Words/)
+READ BEFORE CLASS:
+- Ramsay, Stephen. *Reading Machines toward an Algorithmic Criticism.* Urbana : University of Illinois Press, 2011, ch. 3
+
+- “Sapping Attention: Stopwords to the Wise.” Accessed May 25, 2014. http://sappingattention.blogspot.com/2011/04/stopwords-to-wise.html.
+ 
+Check out this data source:[Capitol Words](http://sunlightlabs.github.io/Capitol-Words/)
 
 ##Recitation 10 (April 3): text processing project
 
@@ -34,9 +39,17 @@ data source: https://www.ipums.org/
 	regex
 	text mining: LSA, LDA and friends (gensim)
 
+READ BEFORE CLASS:
+
++ Bus Subsidies in Argentina, La Nacion: http://datajournalismhandbook.org/1.0/en/case_studies_14.html
+
++ http://blogs.lanacion.com.ar/projects/data/vozdata/
+
 ##Lecture 24 (April 16) Working with networks
 	introductory social network analysis
 	networkx, gephi
+
+Look at: “Connected China”, http://connectedchina.reuters.com/
 
 ##Recitation 12 (April 18): dictionaries project
 	Using aad.archives.gov public sector strike information
