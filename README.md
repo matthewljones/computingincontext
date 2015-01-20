@@ -1,7 +1,7 @@
 #Computing in Context
 ##History Track
-###Matthew L. Jones
-##
+####Matthew L. Jones
+####Highly provisional
 
 ##Lecture 18 (March 26): Working with numbers
 
@@ -49,7 +49,9 @@ READ BEFORE CLASS:
 	introductory social network analysis
 	networkx, gephi
 
-Look at: “Connected China”, http://connectedchina.reuters.com/
+READ BEFORE CLASS
++ S. Graham, I. Milligan, & S. Weingart, [The Historian's Macroscope](http://www.themacroscope.org/),  Section on Networks.
++ Look at: “Connected China”, http://connectedchina.reuters.com/
 
 ##Recitation 12 (April 18): dictionaries project
 	Using aad.archives.gov public sector strike information
@@ -58,7 +60,8 @@ Look at: “Connected China”, http://connectedchina.reuters.com/
 
 ##Lecture 24 (April 23): Working with places
 	census, mapping, python and GIS
-  	Richard White, “What is Spatial History" 
+  
+ + Read: Richard White, [“What is Spatial History"](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29) 
   
   
 ##Lecture 28 (April 30): Track finale
