@@ -32,7 +32,7 @@ READ BEFORE CLASS:
  
 Check out this data source:[Capitol Words](http://sunlightlabs.github.io/Capitol-Words/)
 
-##Recitation 10 (April 3): text processing project
+###Recitation 10 (April 3): text processing project
 
 ##Lecture 22 (April 9) Working with texts (the bad and ugly)
 	pdf extraction
@@ -53,7 +53,7 @@ READ BEFORE CLASS
 + S. Graham, I. Milligan, & S. Weingart, [The Historian's Macroscope](http://www.themacroscope.org/),  Section on Networks.
 + Look at: “Connected China”, http://connectedchina.reuters.com/
 
-##Recitation 12 (April 18): dictionaries project
+###Recitation 12 (April 18): dictionaries project
 	Using aad.archives.gov public sector strike information
 	(http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_1_of_2.pdf)
 	(http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf)
