@@ -10,7 +10,13 @@
 	boolean indexing
 	simple graphing
 
-	READ: Frederick Gibbs and Trevor Owens [The Hermeneutics of Data and Historical Writing](http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)
+READ BEFORE CLASS:
+Frederick Gibbs and Trevor Owens [The Hermeneutics of Data and Historical Writing](http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)
+Steven Ruggles, “The Transformation of American Family Structure.” The American Historical
+Review 99 (1 1994): 103. (http://users.pop.umn.edu/~ruggles/Articles/AHR.pdf)
+
+
+data source: https://www.ipums.org/
 
 
 ##Lecture 20 (April 2): Working with text (the good)
@@ -38,7 +44,9 @@
 	[http://aad.archives.gov/aad/content/aad_docs/rg257_workstop_recordlayout_1953-77_2_of_2.pdf]
 
 ##Lecture 24 (April 23): Working with places
-	census, mapping
+	census, mapping, python and GIS
+  	Richard White, “What is Spatial History" 
+  
   
 ##Lecture 28 (April 30): Track finale
 
