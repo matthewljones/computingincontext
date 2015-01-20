@@ -1,14 +1,16 @@
-#Computing in Context--history track
+#Computing in Context
+##History Track
+###Matthew L. Jones
 
-
-
-##Lecture 18 (March 26): Working with  numbers
+##Lecture 18 (March 26): Working with numbers
 
 	csv, excel importing
 	pandas, tables, basic matrix and vector operations
 	basic summarization
 	boolean indexing
-	first graphs (in pandas)
+	simple graphing
+
+	READ: Frederick Gibbs and Trevor Owens [The Hermeneutics of Data and Historical Writing](http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)
 
 
 ##Lecture 20 (April 2): Working with text (the good)
@@ -17,7 +19,7 @@
 	basic text mining ideas
 	similarity motivations
 
-	Sources:[http://sunlightlabs.github.io/Capitol-Words/]
+	Sources:[Capitol Words](http://sunlightlabs.github.io/Capitol-Words/)
 
 ##Recitation 10 (April 3): text processing project
 
