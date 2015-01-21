@@ -1,5 +1,5 @@
 #Computing in Context
-##History Track
+##Social Sciences Track
 ####Matthew L. Jones
 ####Highly provisional
 
