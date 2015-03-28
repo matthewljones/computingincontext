@@ -55,7 +55,8 @@ Use this code to get started. We're going to ask for a bunch of speeches in Cong
 
 5) the splits
 
-The `split()` method breaks up a string into a list of strings--the words (more or less). So: `"hi there".split() yields ["hi", "there"]`
+The `split()` method breaks up a string into a list of strings--the words (more or less). 
+So: `"hi there".split() yields ["hi", "there"]`
 
 How many words are there in each speech? (Do this as a list comprehension.)
 
@@ -74,11 +75,14 @@ Using pandas, use indexing to pick out:
 
     2) a dataframe with the grade column
 
-    3) a dataframe with the User ID *and* grade columns. Hint: pass a list of column names rather than just one column name
+    3) a dataframe with the User ID *and* grade columns. 
+
+    Hint: pass a list of column names rather than just one column name
 
     4) rows 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, first individually, then all at once
 
-    You can get a single row using the .ix method. E.g. df.ix[200] will get the 200th row of a dataframe named df. You can pass a list to df.ix to get more.
+    You can get a single row using the .ix method. E.g. df.ix[200] 
+    will get the 200th row of a dataframe named df. You can pass a list to df.ix to get more.
 
 2) Pick something to graph: that is, find something to use the `.plot()` method on. (Look at the example from class). Play around with this. You don't need to include the plot, only the code you used to plot.
 
