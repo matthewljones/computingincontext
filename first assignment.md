@@ -36,10 +36,13 @@ Use this code to get started. We're going to ask for a bunch of speeches in Cong
 1) How many responses are there in `responses`? What is the datatype of each response?
 
 2) Who is speaking in each response?
+
 	a) Create a list of the last names of all the speakers? Hint: use a list comprehension!
+
 	b) Print the last name of each speaker and then his/her political affiliation.
 
 3) Look through your results until you find a speech of more than one line.
+
 	What is the data format of more lengthy speeches?
 
 4) Now for something new.
@@ -47,6 +50,7 @@ Use this code to get started. We're going to ask for a bunch of speeches in Cong
 	" ".join(#PUT_ANY_LIST_HERE) will concatenate a list of strings into one string. So `" ".join(["how", "now", "brown", "cow"])` will yield `'how now brown cow'`
 
 	a) Use this to combine the broken up parts of one speech.
+
 	b) Use this to combine the broken up parts of all the speeches
 
 5) the splits
@@ -67,8 +71,11 @@ Get the EdX data we used in class from courseworks; it's a 70MB file.
 Using pandas, use indexing to pick out:
 
     1) a dataframe with only the User Id column
+
     2) a dataframe with the grade column
+
     3) a dataframe with the User ID *and* grade columns. Hint: pass a list of column names rather than just one column name
+
     4) rows 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, first individually, then all at once
 
     You can get a single row using the .ix method. E.g. df.ix[200] will get the 200th row of a dataframe named df. You can pass a list to df.ix to get more.
