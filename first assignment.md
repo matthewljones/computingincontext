@@ -47,7 +47,9 @@ Use this code to get started. We're going to ask for a bunch of speeches in Cong
 
 4) Now for something new.
 
-	" ".join(#PUT_ANY_LIST_HERE) will concatenate a list of strings into one string. So `" ".join(["how", "now", "brown", "cow"])` will yield `'how now brown cow'`
+	" ".join(#PUT_ANY_LIST_HERE) will concatenate a list of strings into one string. 
+
+	So `" ".join(["how", "now", "brown", "cow"])` will yield `'how now brown cow'`
 
 	a) Use this to combine the broken up parts of one speech.
 
