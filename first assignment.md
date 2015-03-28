@@ -5,6 +5,7 @@
 #a little practice with pandas and with lists+dicts
 
 Prelude 1
+
 Get ipython and pandas working on your computer. The easiest way is to install Anaconda python.
 
 
