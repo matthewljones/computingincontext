@@ -23,14 +23,16 @@ Use this code to get started. We're going to ask for a bunch of speeches in Cong
 
 #blackbox begins here
 
-	import urllib
-	import json
-	sunlight_api="HERE PUT THE LONG API STRING YOU GOT FROM SIGNING UP-PUT YOURS HERE BETWEEN QUOTES"
-	phrase_to_search="cyber+security"    
-	my_api_call="http://capitolwords.org/api/1/text.json?phrase="+phrase_to_search+"&apikey="+sunlight_api
-	doc_str = urllib.urlopen(my_api_call).read()
-	response_dict=json.loads(doc_str)
-	responses=response_dict['results']
+	import requests
+
+    SUNLIGHT_API_KEY = "REPLACE THIS WITH THE LONG API KEY YOU RECEIVED IN YOUR EMAIL"
+    SUNLIGHT_API_URL = "http://capitolwords.org/api/1/text.json"
+
+    search_phrase = "cyber security" 
+    query_params = {'phrase': search_phrase, 'apikey': SUNLIGHT_API_KEY}
+
+    r = requests.get(SUNLIGHT_API_URL, params=query_params)
+    responses = r.json().get('results')
 
 #blackbox ends here
 
