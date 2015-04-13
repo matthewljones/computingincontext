@@ -2,7 +2,7 @@
 ##Social Science 
 ##HW #2
 
-Due date: 22 April, 11:55
+Due date: 22 April, 11:55pm
 
 ##APIs for fun and profit
 
@@ -19,7 +19,6 @@ Today let's use http://tryit.sunlightfoundation.com/influenceexplorer on campaig
 
 	query_params = {#HERE YOU'LL PUT YOUR PARAMS as a dict#; 'apikey': SUNLIGHT_API_KEY}
 
-	r = requests.get(SUNLIGHT_API_URL, params=query_params)
 	responses = r.json().get('results')
 
 
