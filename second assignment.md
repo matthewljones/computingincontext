@@ -40,9 +40,9 @@ Let's start with:
 
 3) Ok, now you'll need to figure our how to alter the URL and the query_params in the black box above using the API documentation.
 
-	For 2012 and 2008, who are the top 30 "individuals by contributions given"?  
++ For 2012 and 2008, who are the top 30 "individuals by contributions given"?  
 
-	Make a `dict` that has the 2012 individual's names as keys and their total contributions as values.
++ Make a `dict` that has the 2012 individual's names as keys and their total contributions as values.
 
 ## We'll talk more about text in lecture before I give you a problem set on them.
 
