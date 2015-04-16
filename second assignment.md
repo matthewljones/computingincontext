@@ -2,7 +2,10 @@
 ##Social Science 
 ##HW #2
 
-Due date: 22 April, 11:55pm
+Due date: 24 April, 6pm. [note the earlier time]
+Submit a `readme` file with your assignment, as you've done earlier in the course, concerning any challenges you encountered with or observations on the homework.
+
+I hope everyone's got their platforms working like butter now!
 
 ##APIs for fun and profit
 
@@ -19,11 +22,11 @@ Today let's use http://tryit.sunlightfoundation.com/influenceexplorer on campaig
 
 	query_params = {#HERE YOU'LL PUT YOUR PARAMS as a dict#; 'apikey': SUNLIGHT_API_KEY}
 
-	responses = r.json().get('results')
+	r = requests.get(SUNLIGHT_API_URL, params=query_params)
+	responses = r.json()
 
 
 Let's start with:
-
 	query_params = {'city': "Las Vegas", 'apikey': sunlight_api}
 	SUNLIGHT_API_URL="http://transparencydata.com/api/1.0/earmarks.json"  #note this has changed
 	r = requests.get(SUNLIGHT_API_URL, params=query_params)
@@ -39,11 +42,11 @@ Let's start with:
 
 3) Ok, now you'll need to figure our how to alter the URL and the query_params in the black box above using the API documentation.
 
-+ For 2012 and 2008, who are the top 30 "individuals by contributions given"?  
+	For 2012 and 2008, who are the top 30 "individuals by contributions given"?  
 
-+ Make a `dict` that has the 2012 individual's names as keys and their total contributions as values.
+	Make a `dict` that has the 2012 individual's names as keys and their total contributions as values.
 
-## We'll talk more about text in lecture before I give you a problem set on them.
+## We'll talk more about text mining in lecture before I give you a problem set on them.
 
 ##Looking ahead
 
