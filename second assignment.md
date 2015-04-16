@@ -27,6 +27,7 @@ Today let's use http://tryit.sunlightfoundation.com/influenceexplorer on campaig
 
 
 Let's start with:
+
 	query_params = {'city': "Las Vegas", 'apikey': sunlight_api}
 	SUNLIGHT_API_URL="http://transparencydata.com/api/1.0/earmarks.json"  #note this has changed
 	r = requests.get(SUNLIGHT_API_URL, params=query_params)
