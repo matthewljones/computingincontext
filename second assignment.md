@@ -35,9 +35,12 @@ Let's start with:
 
 0) Look at the API documentation http://tryit.sunlightfoundation.com/influenceexplorer for earmarks. What parameters can you pass to earmarks.json?
 
-1) Using a list comprehension, not a `for` loop, create two lists from these responses:
-	a) all the final amounts of the earmarks in your results
-	b) all the text of the "bill section" of the earmarks. What do you think this field is?
+1) Using two distinct list comprehensions, not `for` loops, create two lists using the responses you get from the code above:
+a) a list of all the final amounts of the earmarks
+b) a list of all the "bill sections" of the earmarks.
+
+What do you think the content of the "bill section" refers to?
+
 
 2) Do (1) again but for another city of your choice. You're best off with cities with powerful politicians....
 
