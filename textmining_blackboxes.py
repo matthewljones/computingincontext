@@ -30,7 +30,7 @@ def readtextfiles(our_directory):
 	        article=" ".join(lines) #alter lines if want to skip lines
 	        articles.append(article) #you might want to extract the file name to use; how do it?
 	os.chdir(current_dir)
-	return articles
+	return articles, files
 
 def data_cleanse(docs_to_clean):
 	import re
@@ -42,4 +42,11 @@ def data_cleanse(docs_to_clean):
 	    docs_to_clean[d] = re.sub(r' +', ' ', docs_to_clean[d])
 	    docs_to_clean[d] = re.sub(r'\s\w\s', ' ', docs_to_clean[d]) #eliminate single letters
 	return docs_to_clean
+
+def plot_mds(positions, names):
+	xs, ys=positions[:, 0], positions[:, 1]
+	for x, y, name in zip(xs, ys, names):
+	    plt.scatter(x,y)
+	    plt.text(x,y,name)
+	plt.show()
 
