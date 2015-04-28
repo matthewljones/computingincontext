@@ -8,21 +8,21 @@ Your task is this: data exploration using a data set of your choice. The goal is
 
 In this assignment, you need to:
 
-	- draw upon at least four of the major tools introduced in the social science track
+- draw upon at least four of the major tools introduced in the social science track
 
-	- provide at least two visualizations of different sorts, e.g. a network graph and a bar plot, or an especially well done table
+- provide at least two visualizations of different sorts, e.g. a network graph and a bar plot, or an especially well done table
 
-	- use at least one feature of one of our key python packages (`pandas`, `networkx`, `scikit-learn` etc.) that we did *not* cover in class. For example, we didn't talk about the cluster functions in networkx for analyzing graphs, or the "groupby" method in `pandas`. Look at the "examples" in the documentation for inspiration!
+- use at least one feature of one of our key python packages (`pandas`, `networkx`, `scikit-learn` etc.) that we did *not* cover in class. For example, we didn't talk about the cluster functions in networkx for analyzing graphs, or the "groupby" method in `pandas`. Look at the "examples" in the documentation for inspiration!
 
 
 The major tools are:
 
-	- making API calls using `requests` or any other library
-	- using pandas for numerical data analysis (or other sorts of data analysis)
-	- vectorizing texts and cosine similarity
-	- topic modeling
-	- networks
-	- geolocation and geoplotting
+- making API calls using `requests` or any other library
+- using pandas for numerical data analysis (or other sorts of data analysis)
+- vectorizing texts and cosine similarity
+- topic modeling
+- networks
+- geolocation and geoplotting
 
 You can make use of the sentiment analysis from the extra credit if you'd like. 
 
