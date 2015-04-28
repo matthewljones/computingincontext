@@ -12,7 +12,7 @@ In this assignment, you need to:
 
 - provide at least two visualizations of different sorts, e.g. a network graph and a bar plot, or an especially well done table
 
-- use at least one feature of one of our key python packages (`pandas`, `networkx`, `scikit-learn` etc.) that we did *not* cover in class. For example, we didn't talk about the cluster functions in networkx for analyzing graphs, or the "groupby" method in `pandas`. Look at the "examples" in the documentation for inspiration!
+- use at least one feature of one of our key python packages (`pandas`, `networkx`, `scikit-learn` etc.) that we did *not* cover in class. For example, we didn't talk about the cluster functions in `networkx` for analyzing graphs, or the "groupby" method in `pandas`. Look at the "examples" in the documentation of these packages for inspiration on additional things they can help you with!
 
 
 The major tools are:
