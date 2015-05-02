@@ -2,13 +2,13 @@
 ##Social Sciences Track
 ### Homework 3: final mini-project
 
-Due May 7, 5pm
+Due May 7, 5pm ***REVISED***
 
 Your task is this: data exploration using a data set of your choice. The goal is to use the tools you've been learning to explore the data set to set up theses and observations that you could go and study more intensively, qualitatively and quantitatively. Think of it as a progress report and prospectus for future work you *could* do.
 
 In this assignment, you need to:
 
-- draw upon at least four of the major tools introduced in the social science track
+- draw upon at least **THREE** (formerly four) of the major tools introduced in the social science track
 
 - provide at least two visualizations of different sorts, e.g. a network graph and a bar plot, or an especially well done table
 
@@ -25,7 +25,8 @@ The major tools are:
 - geolocation and geoplotting
 
 You can make use of the sentiment analysis from the extra credit if you'd like. 
-
+ 
+If you data set is primarily *numerical*, you'll get more from the assignment by delving deeper into the amazing things one can do with `pandas`. 
 
 If you've not found a data set that inspires you, do not hesitate to use materials such as the wide range of materials available from the Sunlight Foundation APIs or the Old Bailey records available through APIs. 
 
